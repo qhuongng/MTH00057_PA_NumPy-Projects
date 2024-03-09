@@ -15,5 +15,5 @@ The `imgproc` notebook explores different image processing algorithms by perform
   <img src="https://github.com/qhuongng/MTH00057_PA_NumPy-Projects/blob/main/imgproc.png?raw=true" />
 </p>
 
-# How to run
+## How to run
 The notebooks require [**Python**](https://www.python.org/downloads/), [**NumPy**](https://numpy.org/install/) and [**Matplotlib**](https://matplotlib.org/stable/users/getting_started/), as well as software/a text editor that supports Jupyter notebooks to run.
